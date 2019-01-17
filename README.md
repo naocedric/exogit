@@ -27,3 +27,37 @@ Stephen Wozniak, dit Steve Wozniak, né le 11 août 1950 à San José, aussi app
 
 Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique. 
 
+- Quelle est la différence entre le Web et Internet ?
+
+Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP, et sur laquelle s'appuient de nombreux autres services. Dont le web. Le World Wide Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.2 août 2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
